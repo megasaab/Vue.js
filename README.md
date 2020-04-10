@@ -13,8 +13,6 @@ This app you can use like Todo or Notes
 - npm install
 - npm install express
 - npm install -D nodemon
- 
-# lint & run all tests
 
 # - npm run dev 
 
