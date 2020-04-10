@@ -7,6 +7,8 @@ If you’d like to learn more about Vue before diving in, we created a video wal
 
 If you are an experienced frontend developer and want to know how Vue compares to other libraries/frameworks, check out the Comparison with Other Frameworks.
 
+This app you can use like Todo or Notes
+
 # DEPENDS: 
 - npm install
 - npm install express
