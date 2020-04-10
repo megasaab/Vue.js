@@ -7,11 +7,13 @@ If you’d like to learn more about Vue before diving in, we created a video wal
 
 If you are an experienced frontend developer and want to know how Vue compares to other libraries/frameworks, check out the Comparison with Other Frameworks.
 
-
-
 # DEPENDS: 
+- npm install
 - npm install express
 - npm install -D nodemon
+ 
+# lint & run all tests
+
 # - npm run dev 
 
-
+# serve examples at localhost:3000
