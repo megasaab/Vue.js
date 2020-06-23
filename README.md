@@ -19,4 +19,4 @@ This app you can use like Todo or Notes
 # serve examples at localhost:3000
 
 
-https://github.com/megasaab/Vue.js/client/img/projec.png
+
